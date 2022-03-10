@@ -11,7 +11,7 @@ Other personal web resources::
 - [Sachin's GitHub Link](https://github.com/sachin365123/examworld.co.in)
 - [Sachin's Python YouTube Channel](https://youtube.com/playlist?list=PLmhdUvQQZFDnVhYH5CSfhhSH8dXPtxFsK)
 
-[Full paper access:] ()
+[Full paper access:](https://www.researchgate.net/publication/357301117_Comparision_based_Prediction_of_Diabetic_Nephropathy_using_Deep_Learning_Algorithm)
 
 This paper summarizes, the prediction of diabetic nephropathy of any patient using the deep learning image processing method namely VGG16 with 98 % accuracy. To accelerate the image training system design ROC and AUC curves have been defined also, to provide better results, optimal values have been compared with machine learning algorithms such as SVM, Random Forest, AdaBoost, etc. Patient images can be scanned digitally and the very first opinion can be obtained without expert knowledge acquisition.
 Dataset has been collected from Shri Ram Murti Smarak Hospital, Bareilly MRI, and Mission Hospital, Bareilly, Uttar Pradesh, India.
