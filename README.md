@@ -1,14 +1,17 @@
 # Kidney-Classification-using-Deep-Learning-algorithms- 
-## Comparison based prediction of Diabetic Nephropathy using Deep Learning algorithm ()
-# Research Scholar name: SACHIN KUMAR SAXENA, Department of Computer Science and Engineering Faculty of Engineering &amp; Technology Invertis University Bareilly, Uttar Pradesh - India
+## Comparison based prediction of Diabetic Nephropathy using Deep Learning algorithm [Full paper Text](https://www.researchgate.net/publication/357301117_Comparision_based_Prediction_of_Diabetic_Nephropathy_using_Deep_Learning_Algorithm)
+### Research Scholar name: SACHIN KUMAR SAXENA, Department of Computer Science and Engineering Faculty of Engineering &amp; Technology Invertis University Bareilly, Uttar Pradesh - India
 With you, In Christ, In His Mission
-# Assistant Professor, CSE DEPARTMENT, SRMS College of Engineering,Technology & Research, Bareilly, Uttar Pradesh
-# sachinsax@gmail.com
+### Assistant Professor, CSE DEPARTMENT, SRMS College of Engineering,Technology & Research, Bareilly, Uttar Pradesh
+### sachinsax@gmail.com
 Other personal web resources::
-- [Tutor's Blog](https://sachinplacement.blogspot.com/)
-- [Tutor's LinkedIn Profile](https://www.linkedin.com/in/sachin-saxena-graphic-designer/)
-- [Tutor's GitHub Link](https://github.com/sachin365123/examworld.co.in)
-- [Tutor's Python YouTube Channel](https://youtube.com/playlist?list=PLmhdUvQQZFDnVhYH5CSfhhSH8dXPtxFsK)
+- [Sachin's ResearchGate](https://www.researchgate.net/profile/Sachin-Saxena-6)
+- [Sachin's Blog](https://sachinplacement.blogspot.com/)
+- [Sachin's LinkedIn Profile](https://www.linkedin.com/in/sachin-saxena-graphic-designer/)
+- [Sachin's GitHub Link](https://github.com/sachin365123/examworld.co.in)
+- [Sachin's Python YouTube Channel](https://youtube.com/playlist?list=PLmhdUvQQZFDnVhYH5CSfhhSH8dXPtxFsK)
+
+[Full paper access:] ()
 
 This paper summarizes, the prediction of diabetic nephropathy of any patient using the deep learning image processing method namely VGG16 with 98 % accuracy. To accelerate the image training system design ROC and AUC curves have been defined also, to provide better results, optimal values have been compared with machine learning algorithms such as SVM, Random Forest, AdaBoost, etc. Patient images can be scanned digitally and the very first opinion can be obtained without expert knowledge acquisition.
 Dataset has been collected from Shri Ram Murti Smarak Hospital, Bareilly MRI, and Mission Hospital, Bareilly, Uttar Pradesh, India.
